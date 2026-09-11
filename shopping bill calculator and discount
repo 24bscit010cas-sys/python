@@ -6,7 +6,7 @@ total = 0
 item_count = 0
 
 print("=" * 35)
-print(" SHOPPING BILL RECEIPT")
+print(" SHIPPING BILL RECEIPT")
 print("=" * 35)
 
 # Loop through items and prices together
